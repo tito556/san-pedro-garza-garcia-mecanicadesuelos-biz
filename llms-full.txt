@@ -1,0 +1,51 @@
+# Mecanicadesuelos — San Pedro Garza García
+
+> Geotechnical engineering services in San Pedro Garza García, México.
+
+## Services
+- [Aislacion Sismica](https://san-pedro-garza-garcia.mecanicadesuelos.biz/aislacion-sismica/)
+- [Anclajes](https://san-pedro-garza-garcia.mecanicadesuelos.biz/anclajes/)
+- [Calicatas](https://san-pedro-garza-garcia.mecanicadesuelos.biz/calicatas/)
+- [Cbr Vial](https://san-pedro-garza-garcia.mecanicadesuelos.biz/cbr-vial/)
+- [Cimentaciones](https://san-pedro-garza-garcia.mecanicadesuelos.biz/cimentaciones/)
+- [Columnas Grava](https://san-pedro-garza-garcia.mecanicadesuelos.biz/columnas-grava/)
+- [Densidad Cono Arena](https://san-pedro-garza-garcia.mecanicadesuelos.biz/densidad-cono-arena/)
+- [Ensayo Cpt](https://san-pedro-garza-garcia.mecanicadesuelos.biz/ensayo-cpt/)
+- [Ensayos Proctor](https://san-pedro-garza-garcia.mecanicadesuelos.biz/ensayos-proctor/)
+- [Estabilidad Taludes](https://san-pedro-garza-garcia.mecanicadesuelos.biz/estabilidad-taludes/)
+- [Excavaciones Profundas](https://san-pedro-garza-garcia.mecanicadesuelos.biz/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://san-pedro-garza-garcia.mecanicadesuelos.biz/excavaciones-subterraneo/)
+- [Exploracion](https://san-pedro-garza-garcia.mecanicadesuelos.biz/exploracion/)
+- [Geotecnia Vial](https://san-pedro-garza-garcia.mecanicadesuelos.biz/geotecnia-vial/)
+- [Granulometria](https://san-pedro-garza-garcia.mecanicadesuelos.biz/granulometria/)
+- [Inyecciones](https://san-pedro-garza-garcia.mecanicadesuelos.biz/inyecciones/)
+- [Laboratorio In Situ](https://san-pedro-garza-garcia.mecanicadesuelos.biz/laboratorio-in-situ/)
+- [Laboratorio Lab](https://san-pedro-garza-garcia.mecanicadesuelos.biz/laboratorio-lab/)
+- [Licuefaccion](https://san-pedro-garza-garcia.mecanicadesuelos.biz/licuefaccion/)
+- [Limites Atterberg](https://san-pedro-garza-garcia.mecanicadesuelos.biz/limites-atterberg/)
+- [Losas Fundacion](https://san-pedro-garza-garcia.mecanicadesuelos.biz/losas-fundacion/)
+- [Masw](https://san-pedro-garza-garcia.mecanicadesuelos.biz/masw/)
+- [Mejoramiento](https://san-pedro-garza-garcia.mecanicadesuelos.biz/mejoramiento/)
+- [Microzonificacion Sismica](https://san-pedro-garza-garcia.mecanicadesuelos.biz/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://san-pedro-garza-garcia.mecanicadesuelos.biz/monitoreo-excavaciones/)
+- [Muros Contencion](https://san-pedro-garza-garcia.mecanicadesuelos.biz/muros-contencion/)
+- [Pavimento Flexible](https://san-pedro-garza-garcia.mecanicadesuelos.biz/pavimento-flexible/)
+- [Pavimento Rigido](https://san-pedro-garza-garcia.mecanicadesuelos.biz/pavimento-rigido/)
+- [Permeabilidad In Situ](https://san-pedro-garza-garcia.mecanicadesuelos.biz/permeabilidad-in-situ/)
+- [Pilotes](https://san-pedro-garza-garcia.mecanicadesuelos.biz/pilotes/)
+- [Refraccion Sismica](https://san-pedro-garza-garcia.mecanicadesuelos.biz/refraccion-sismica/)
+- [Resistividad](https://san-pedro-garza-garcia.mecanicadesuelos.biz/resistividad/)
+- [Sismica](https://san-pedro-garza-garcia.mecanicadesuelos.biz/sismica/)
+- [Sondajes Spt](https://san-pedro-garza-garcia.mecanicadesuelos.biz/sondajes-spt/)
+- [Taludes](https://san-pedro-garza-garcia.mecanicadesuelos.biz/taludes/)
+- [Triaxial](https://san-pedro-garza-garcia.mecanicadesuelos.biz/triaxial/)
+- [Tuneles Suelo Blando](https://san-pedro-garza-garcia.mecanicadesuelos.biz/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://san-pedro-garza-garcia.mecanicadesuelos.biz/vibrocompactacion/)
+- [Zapatas](https://san-pedro-garza-garcia.mecanicadesuelos.biz/zapatas/)
+
+## Contact
+- Website: https://san-pedro-garza-garcia.mecanicadesuelos.biz/
+
+## About
+This site provides geotechnical engineering services in San Pedro Garza García, México.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
